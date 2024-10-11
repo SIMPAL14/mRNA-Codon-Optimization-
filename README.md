@@ -1,0 +1,3 @@
+mRNA Stability and Codon Optimization: 
+This repository contains resources and tools for understanding and improving mRNA stability through codon optimization. mRNA stability is crucial for effective protein expression, and optimizing codon usage can significantly enhance the stability and efficiency of mRNA molecules. 
+Messenger RNA (mRNA) plays a vital role in the translation of genetic information into proteins. However, mRNA molecules are inherently unstable and prone to degradation. Enhancing mRNA stability is essential for various applications, including mRNA vaccines, therapeutic proteins, and gene therapy.
